@@ -1,1 +1,1 @@
-*.makefile linguist-detectable=C++
+*.cmake linguist-detectable=false
