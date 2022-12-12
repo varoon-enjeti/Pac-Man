@@ -1,2 +1,2 @@
-*.o linguist-detectable=false
 *.d linguist-detectable=false
+*.make linguist-detectable=false
