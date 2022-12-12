@@ -1,1 +1,2 @@
-*.o.d linguist-detectable=false
+*.o linguist-detectable=false
+*.d linguist-detectable=false
