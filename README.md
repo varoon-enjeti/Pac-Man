@@ -1,2 +1,2 @@
 # Pac-Man
-A fully functional Pac-Man game
+A fully functional Pac-Man game.
